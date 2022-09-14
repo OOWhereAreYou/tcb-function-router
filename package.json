@@ -1,0 +1,18 @@
+{
+  "name": "tcb-function-router",
+  "version": "1.0.0",
+  "description": "tcb-function-router",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OOWhereAreYou/tcb-function-router.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OOWhereAreYou/tcb-function-router/issues"
+  },
+  "author": "Will",
+  "license": "ISC"
+}
